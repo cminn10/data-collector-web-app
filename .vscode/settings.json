@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "virtual/bin/python",
+    "python.linting.pylintArgs": ["--load-plugins", "pylint-flask"]
+}
+
